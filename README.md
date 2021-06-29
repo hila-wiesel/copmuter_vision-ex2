@@ -1,4 +1,4 @@
-# Convolution , edge detecting and hough circle
+# Convolution , Edge Detecting and Hough Circle
 ### copmuter_vision-ex2
 
 ## 1. convulation 2D
